@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "780573862664",
+    "project_id": "tensile-psyche-365316",
+    "storage_bucket": "tensile-psyche-365316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780573862664:android:8c3847737175f4cdaf5abd",
+        "android_client_info": {
+          "package_name": "com.ensoft.lesson30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGcyHEkE4ADPjIt6f3XPPfPbVcbs32_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780573862664:android:0d0c713d34430f34af5abd",
+        "android_client_info": {
+          "package_name": "com.ensoft.lesson32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGcyHEkE4ADPjIt6f3XPPfPbVcbs32_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780573862664:android:c61a2016404a2ca0af5abd",
+        "android_client_info": {
+          "package_name": "com.ensoft.lesson33"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGcyHEkE4ADPjIt6f3XPPfPbVcbs32_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
